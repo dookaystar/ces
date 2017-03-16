@@ -12,4 +12,5 @@ public class GetStrin {
         return "" + ss + "东方不败";
     }
 
+
 }
